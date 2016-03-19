@@ -33,7 +33,7 @@ kramdown:
 owner:
   name: Alvaro Prieto
   avatar: avatar.jpg
-  # job: "Engineer?"
+  job:
   bio: "..."
   email:
   disqus-shortname: alvarosblog
@@ -41,7 +41,7 @@ owner:
   facebook:
   google:
     plus:
-    analytics:
+    analytics: UA-51324259-1
     verify:
     ad-client:
     ad-slot:
@@ -49,4 +49,4 @@ owner:
   github: alvarop
   linkedin: alvaroops
   youtube: apg88
-  flickr: apg88zx
+  flickr: apg88
