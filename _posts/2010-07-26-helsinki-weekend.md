@@ -16,7 +16,7 @@ meta:
 ---
 <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="/images/flckr/4826812111_13bf7599d8_b.jpg"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 512px;" src="/images/flckr/4826812111_13bf7599d8_b.jpg" alt="" border="0" /></a>
 
-###July 23-25
+### July 23-25
 
 After leaving from work on Friday, I took the train to Helsinki. After arriving, I went to drop off my backpack to the hostel where we were staying for the weekend. The hostel was in the old Olympic stadium (from the Helsinki Olympics in 1952.) We then headed back to the city center and stopped at a coffee place to wait for the rest of the group. The hostel was about 30 minutes walking from the train station, so we bought a two day public transport ticket and took a tram.
 

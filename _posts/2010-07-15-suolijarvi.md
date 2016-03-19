@@ -15,7 +15,7 @@ meta:
   dsq_thread_id: '639488781'
 ---
 
-###June 24th
+### June 24th
 
 <a href="/images/blgr/IMG_1521.JPG"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 400px; height: 267px;" src="http://2.bp.blogspot.com/_k2p8q4xyXYc/TD9QgF0EyAI/AAAAAAAAAI8/K7WObJuMdsg/s400/IMG_1521.JPG" alt="" id="BLOGGER_PHOTO_ID_5494198582661924866" border="0" /></a>
 One partof the lake.

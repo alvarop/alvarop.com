@@ -16,7 +16,7 @@ meta:
 ---
 <div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.flickr.com/photos/apg88/4875198435"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 436px; height: 640px;" src="http://farm5.static.flickr.com/4079/4875198435_e5e5292578_z.jpg" alt="" border="0" /></a><span style="font-size:85%;">Near the cottage.</span></div>
 
-###Saturday August 7th
+### Saturday August 7th
 
 My day started at 3:50am when I woke up. I had set my alarm to 4:00am, but I woke up before it anyway. The reason I woke up so early is that I live in Tampere, but had to catch a ferry in Turku at 10:00am. The only train from Tampere to Turku that was available left Tampere around 5:55am. In order to take that train, I had to take a bus to get to the train station. As you might imagine, buses don’t run every 20 minutes in the early morning, so I had two options: one at 4:37am or one at 5:15am. I chose to take the earlier one to be safe. If I chose to take the later one, and managed to miss it (or if the bus was delayed), I would have missed the ferry (which only runs twice a week!)
 
@@ -32,7 +32,7 @@ The ferry took about 5 hours to reach Utö, making only one stop in another isla
 
 Later in the day, we went to a tour of the light house. The lady giving the tour explained about the history of the island, the lighthouse, and a bunch of other things I don’t quite remember. After that, we cooked some food and had a great traditional Finnish dinner.  Later on, some friends of one of the organizers that were working on the island came over and hung out.
 
-###Sunday August 8th
+### Sunday August 8th
 
 Since there were thousands of mosquitoes and other bugs around, we had to close the doors overnight. I woke up around 7:30am to some horrible heat. I eventually went outside to listen to music and read. When one of the others woke up, we walked around the island and took pictures while the rest woke up. We later had breakfast and cleaned the cottage before walking around the island again. Eventually it started raining, so we ran back to the cottage. It didn’t last very long though.
 
@@ -40,7 +40,7 @@ Since there were thousands of mosquitoes and other bugs around, we had to close 
 
 Around 2:30pm, we took another ferry home. The one we arrived in had left earlier in the day. The second one was free, but made several stops and finished in the placed the original ferry had stopped. We then waited for a bus to arrive (by ferry)  and got on to return to Turku. It was the first time I was on a bus that itself took a ferry. The bus was a bit late, so the driver went extra fast, which resulted in a very bumpy ride. Eventually we arrived to Turku after 9:00pm, where we all went our separate ways.
 
-###Monday August 9th
+### Monday August 9th
 
 There were no trains or buses back to Tampere that night, so I stayed in a hostel. I woke up at 5:50 in the morning to pack up and have breakfast, before walking to the train station. Unfortunately there was a very large group of tourists that also wanted to have breakfast at 6am, so it took a while. The train left at 7:00am and I arrived to the train station at 6:50am. There was a small line at the ticket counter, but it didn’t seem to be moving, so I tried the ticket machine outside. Unfortunately it only seemed to work in Finnish or Swedish, so I had to ask someone for help. I managed to catch the train and arrived to Tampere around 8:50am. I then took a bus straight to work.
 

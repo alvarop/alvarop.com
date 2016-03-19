@@ -7,11 +7,11 @@ tags: [projects]
 comments: true
 ---
 
+This year's work holiday party was Back to the Future themed. I didn't have any good costume ideas, so with a week to go, I decided to build a portable flux capacitor to bring instead.
+
 <div align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/MZ-XaeUl97o" frameborder="0" allowfullscreen></iframe></div> 
 
 <br />
-
-This year's work holiday party was Back to the Future themed. I didn't have any good costume ideas, so with a week to go, I decided to build a portable flux capacitor to bring instead.
 
 The first thing I did was to order some [addressable RGB LED strips][0] online. 
 

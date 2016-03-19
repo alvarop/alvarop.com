@@ -15,13 +15,13 @@ meta:
   dsq_thread_id: '751804587'
 ---
 
-###Wednesday May 26th
+### Wednesday May 26th
 
 My trip began in Rochester, NY. I woke up early and finished packing. My housemate drove me to the airport early to catch my 10am flight. I arrived to JFK airport in NYC around 11:30am. I had lunch and found one of the charging stations to plug in my laptop while I waited until my 5:40pm flight. Even though there was no one seating next to me, I did not sleep much at all in the airplane.
 
 <div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="/images/blgr/IMG_0010.JPG"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 400px; height: 300px;" src="http://4.bp.blogspot.com/_k2p8q4xyXYc/TCytfk_zF9I/AAAAAAAAAIk/YSBEbCsWyLw/s400/IMG_0010.JPG" alt="" id="BLOGGER_PHOTO_ID_5488952803876607954" border="0" /></a><span style="font-size:78%;">The last bus and 777 in the background.</span></div>
 
-###May 27th
+### May 27th
 
 The flight arrived around 4:30am in London, ahead of schedule.  After we landed, we were notified that the jetbridge was not working and we would have to take buses from the airplane to the terminal. I was in the rear of the Boeing 777, so it was quite a while before I got off the plane.
 
@@ -35,7 +35,7 @@ I ran into some trouble when the bus ticket machine did not take my credit card.
 
 <div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="/images/blgr/IMG_1320_tonemapped.jpg"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 400px; height: 266px;" src="http://2.bp.blogspot.com/_k2p8q4xyXYc/TCyt4UQq2xI/AAAAAAAAAIs/sAZZY2_F9gQ/s400/IMG_1320_tonemapped.jpg" alt="" id="BLOGGER_PHOTO_ID_5488953228880698130" border="0" /></a><span style="font-size:78%;">Near Aalto University</span>
 
-###May 28th
+### May 28th
 
 The next morning, my friend headed to work at the Aalto University in Helsinki. While he was there, I walked around the area, took a few pictures, and headed back. I had lunch with him and his colleagues at the university and took a bus to the Helsinki train station. Since my train didn’t leave until later in the day, I decided to watch Prince of Persia at the local movie theatre.
 

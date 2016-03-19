@@ -17,7 +17,7 @@ I recently<a href="http://www.flysfo.com/web/page/orphan/bicycle-parking/"> foun
 
 The San Jose airport is much closer to where I live (San Jose/Cupertino area), but SFO has more direct flights to where I need to go. SFO is over 40 miles from my apartment, so the trip did require some planning. First of all, I had to reduce the amount of luggage I packed, since I was going to be carrying it on my back. I can't predict if it's going to be raining or not, so I decided to use a waterproof backpack. Finally, I didn't want to bike all 40 miles, so I only biked to/from CalTrain stations and took the train the rest of the way.
 
-###Getting There
+### Getting There
 
 My flight was at 12:40 on Saturday. I decided to take the 8:14am train from Sunnyvale, so I would get to the airport around 9:30am. (This way, I could miss the train and still make it in time. Flats happen!) The weather was great, cold and rainy, so I got to use all my waterproof gear.
 
@@ -43,7 +43,7 @@ So that was the trip there... Oh wait, I should warn anyone trying to do the sam
 
 <a href="/images/wp/IMG_0102.jpg"><img class="size-large wp-image-290" title="changed" src="/images/wp/IMG_0102-640x480.jpg" alt="" width="640" height="480" /></a> Be sure to bring a change of clothes. Nobody likes traveling with wet socks/shoes!
 
-###Getting Back
+### Getting Back
 
 I was slightly worried when the airport guy had never had anyone register a bike with him. Turns out, we did it right and my bike was still there when I returned. Phew!
 
