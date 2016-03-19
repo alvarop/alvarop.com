@@ -3,8 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title:       "Leonids Jekyll theme"
-description: "Clean Jekyll blog theme called Leonids."
+title:       "Alvaro's Blog"
+description: "stuff"
 url:         # the base hostname & protocol for your site
 
 #
@@ -12,11 +12,11 @@ url:         # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          America/Los_Angeles
 markdown:          kramdown
 highlighter:       pygments
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         /:year/:month/:title
 
 kramdown:
   auto_ids:       true
@@ -31,13 +31,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Your name
+  name: Alvaro Prieto
   avatar: avatar.jpg
-  job: "Your job"
-  bio: "Write about yourself"
+  # job: "Engineer?"
+  bio: "..."
   email:
-  disqus-shortname:
-  twitter:
+  disqus-shortname: alvarosblog
+  twitter: alvaroprieto
   facebook:
   google:
     plus:
@@ -46,19 +46,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+  github: alvarop
+  linkedin: alvaroops
+  youtube: apg88
+  flickr: apg88zx
