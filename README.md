@@ -1,30 +1,20 @@
-# Leonids Jekyll Themes
+# Alvaro's Blog
 
-**[Leonids](http://renyuanz.github.io/leonids)** is a clean Jekyll theme perfect for powering your GitHub hosted blog.
+Nothing to see here... unless you want to see how I make my website!
 
-## What is Leonids?
+### Setup
+Run: 
+```vagrant up```
+```vagrant ssh```
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Simple and clear permalink structure.
-* Support for Disqus Comments.
-* Support for multi-authors.
-* **And** the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
+### Development
 
-See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub.
+Run inside vagrant:
+```/vagrant/scripts/serve.sh```
 
-## Quick setup
+Now you can go to http://localhost:4000 on the host machine to see the site.
 
-`git clone https://github.com/renyunz/leonids`
-
-`cd leonids`
-
-`jekyll server`
-
-Check out your awesome blog at `http://localhost:4000` and Cheers!
-
-## TODO
-
-- [ ] Build a timeline page.
-- [ ] Build a portfolio page.
-- [ ] Redesign categories page. Ref: [dribbble: blog category section By Ilja Miskov](https://dribbble.com/shots/2274792-Blog-Category-Selection)
-- [ ] Multi languages support.
+### Release
+Run inside vagrant:
+```/vagrant/scripts/upload.sh```
+(You will need my password for this unfortunately...)
