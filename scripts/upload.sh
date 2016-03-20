@@ -1,3 +1,3 @@
 #!/bin/bash
-jekyll build --source /vagrant
-rsync -vrhz /vagrant/_site/ alvaro@alvarop.com:/usr/share/nginx/www/
+jekyll build --source /vagrant -d /tmp/_site
+rsync -vrhz /tmp/_site/ alvaro@alvarop.com:/usr/share/nginx/www/

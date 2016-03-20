@@ -1,2 +1,2 @@
 #!/bin/bash
-jekyll build --source /vagrant
+jekyll build --source /vagrant -d /tmp/_site
