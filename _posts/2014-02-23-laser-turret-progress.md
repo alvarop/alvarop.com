@@ -53,7 +53,7 @@ The solid background worked extremely well. The robot was no longer focusing on 
 
 Since I was still waiting for parts for the next iteration of the mechanical platform, I switched to working on test targets. The organizers were nice enough to provide a<a href="https://github.com/Defconbots/2014_target"> target reference design</a> as well. It consists of blue LEDs, red light sensors, and a microcontroller to detect the hits. I only had some of the required parts at home, so I decided to make a slightly simpler version of it.
 
-<a href="/images/wp/targetFront.jpg"><img alt="Target Front - Light sensor and blue LED" src="/images/wp/targetFront.jpg" /></a>
+[![Target Front - Light sensor and blue LED](/images/wp/targetFront.jpg){: .center-image }](/images/wp/targetFront.jpg)
 
 Target Front - Light sensor and blue LED
 
