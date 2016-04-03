@@ -18,11 +18,11 @@ The first problem dealt with getting a list of all the old blogger permalinks. L
 
 First right-click over the generated links and select "inspect element".
 
-<img class="size-full wp-image-144 " title="Inspect Element" src="/images/wp/1_inspect_element.png" alt="" width="582" height="317" />
+![Inspect Element](/images/wp/1_inspect_element.png){: .center-image }
 
 Once the inspect element window appears, right-click on the top HTML tag and select "Copy as HTML". This will let you copy the JavaScript generated HTML. (If you had just clicked view-source, it might not have included that.)
 
-<img class="size-full wp-image-146" title="Copy as HTML" src="/images/wp/2_copy_as_html.png" alt="" width="541" height="252" />
+![Copy as HTML](/images/wp/2_copy_as_html.png){: .center-image }
 
 Paste the HTML onto your favorite text editor. I saved it as "toc.html".
 
@@ -30,7 +30,7 @@ Paste the HTML onto your favorite text editor. I saved it as "toc.html".
 
 The next step is to get all the 'new' links from the WordPress site. You can export an xml file with all the information in the WordPress settings. I saved that one as "wpexport.xml".
 
-<img class="size-full wp-image-148" title="Wordpress Export" src="/images/wp/4_export_wordpress_xml.png" alt="" width="573" height="573" />
+![Wordpress Export](/images/wp/4_export_wordpress_xml.png){: .center-image }
 
 Now that there are two files with the links buried in them, we need to extract them and match them. I wrote a quick <a href="https://github.com/alvarop/alvarop-scripts/blob/master/blogger_to_wordpress_links/blogger_to_wordpress_links.pl">perl script</a> that reads both files, takes the urls, matches as many as it can, and spits out a csv file.
 
@@ -40,7 +40,7 @@ $ perl blogger_to_wordpress_links.pl > links.csv
 
 Most of the urls were automatically matched, but a few were not, so I opened up the csv file in excel and filled out the rest. (It puts all of the unmatched urls at the bottom of the file so you only have to cut and paste, not re-type).
 
-<img class=" wp-image-152 " title="CSV List" src="/images/wp/5_csv_link_list.png" alt="" width="608" height="378" />
+![CSV List](/images/wp/5_csv_link_list.png){: .center-image }
 
 Ok, so now I have a csv file with URL's, but what I really need is a .htaccess file to actually do the work. I wrote <a href="https://github.com/alvarop/alvarop-scripts/blob/master/blogger_to_wordpress_links/csv_to_htacces.pl">another script</a> to do that.
 
