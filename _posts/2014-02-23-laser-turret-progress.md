@@ -59,7 +59,7 @@ Target Front - Light sensor and blue LED
 
 After testing the light sensor, I decided to mount it on a perf board, along with the blue LED and some resistors. I thought about using old phone cable to take the signals back to the microcontroller doing the measuring, but I found some headphone cables and used them instead. I cut a hole on a ping pong ball, mounted the board inside, hot glued a bunch, and started testing.
 
-<a href="/images/wp/target.jpg"><img alt="Target" src="/images/wp/target.jpg" /></a>
+[![Target](/images/wp/target.jpg){: .center-image }](/images/wp/target.jpg)
 
 Target
 
@@ -70,6 +70,6 @@ I spent some time getting the microcontroller that’s doing the hit detection w
 
 That’s most of my progress so far. I’ve also been working on other mechanical designs, but I haven’t documented any of them yet. Working on this has been educational and quite fun! Incremental updates are usually<a href="http://www.youtube.com/playlist?list=PL51tBfXUVHK3hkl6Vbk8XUx7kcAd2GAIz"> on youtube</a> way before I write about them.
 
-<a href="/images/wp/TargetSetup.jpg"><img alt="Target setup for testing." src="/images/wp/TargetSetup.jpg"/></a>
+[![Target setup for testing.](/images/wp/TargetSetup.jpg){: .center-image }](/images/wp/TargetSetup.jpg)
 
 Target setup for testing.
