@@ -36,7 +36,7 @@ To do this, open:
 
 Find the device you want excluded, in this case <strong>AppleUSBEFTDI-6010-0</strong> and comment out the key and dictionary. (I looked up the product id on OSX's System Information window)
 
-<img class="aligncenter size-large wp-image-419" alt="FTDI Device Id" src="/images/wp/Screen-Shot-2014-01-05-at-8.05.07-AM-640x362.png" width="640" height="362" />
+![FTDI Device Id](/images/wp/Screen-Shot-2014-01-05-at-8.05.07-AM-640x362.png){: .center-image }
 
 Now you just have to reload the kext and everything should work without having to load/unload kexts every time!
 <strong>sudo kextunload -bundle com.apple.driver.AppleUSBFTDI</strong>
