@@ -1,18 +1,24 @@
 - hosts: all
-  sudo: true
+  become: yes
   tasks:
     - name: update apt cache
       apt: update_cache=yes
+   
     - name: Install Ruby
       apt: name={{ item }} state=latest
       with_items:
         - ruby2.0
         - ruby2.0-dev
-    - name: install redcarpet
-      apt: name=ruby-redcarpet state=present
-    - name: Install jekyll
-      script: /usr/bin/gem2.0 install jekyll
-      become: yes
-    - name: Install pygments.rb
-      script: /usr/bin/gem2.0 install pygments.rb
-      become: yes
+    
+    - name: Symlink exists for Ruby 2.0
+      file: src=/usr/bin/ruby2.0 dest=/usr/local/bin/ruby state=link
+
+    - name: Symlink exists for Ruby Gems 2.0
+      file: src=/usr/bin/gem2.0 dest=/usr/local/bin/gem state=link
+
+    - name: Install some useful ruby gems
+      action: gem name={{item}} state=present user_install=no
+      with_items:
+        - jekyll
+        - redcarpet
+        - pygments.rb
