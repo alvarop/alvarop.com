@@ -16,11 +16,11 @@ meta:
 ---
 So I wrote last week about getting UART working on the MSP430G2533 but having major problems with the SPI interface... I was so frustrated that I caved in and purchased a <a href="http://www.saleae.com/logic/" target="_blank">Salae Logic</a> analyzer. It finally arrived today, and I had a chance to test it.
 
-[{% include image.html
+{% include image.html
             img="/images/blgr/s640/IMG_7201.jpg"
             title="Salae Logic in action!"
             caption="Salae Logic in action!"
-            url="/images/blgr/s640/IMG_7201.jpg" %}](/images/blgr/IMG_7201.jpg)
+            url="/images/blgr/IMG_7201.jpg" %}
 
 As soon as I opened the box, I connected it to sniff the SPI lines between my msp430 and cc2500 radio. It took me maybe 10-15 minutes to set up everything, including the Salae software to decode SPI on the fly. I ran my radio-setup code and observed the logic output. It seemed like something was happening, but it wasn't quite working.
 

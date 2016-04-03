@@ -47,11 +47,11 @@ The video is extremely short, but I thought it came out alright.
 <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/jZ7VIhmbaLc?rel=0&amp;hd=1" width="640"></iframe></div>
 Since I went there to look at the night sky, I had to find stuff to do during the day. And by stuff I mean mounting the DSLR on the hood of my car and driving around while making more time-lapse videos. I used the same suction cup mount I mentioned previously. It held just fine while driving at speeds of 75+ mph! The actual device was purchased from <a href="http://www.filmtools.com/" target="_blank">filmtools.com</a>. It worked great!
 
-[{% include image.html
+{% include image.html
             img="/images/blgr/s640/IMG_20111125_132532.jpg"
             title="Camera on car hood. Talk about trust!"
             caption="Camera on car hood. Talk about trust!"
-            url="/images/blgr/s640/IMG_20111125_132532.jpg" %}](/images/blgr/IMG_20111125_132532.jpg)
+            url="/images/blgr/IMG_20111125_132532.jpg" %}
 
 The first one happened during a drive from Marfa to Fort Davis.
 

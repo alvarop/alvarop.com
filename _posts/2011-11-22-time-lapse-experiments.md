@@ -14,11 +14,11 @@ meta:
 ---
 I recently started experimenting some more with time-lapse videos while moving. I bought a suction cup mount for my DSLR and tested it out in my car.
 
-[{% include image.html
+{% include image.html
             img="/images/blgr/s400/camera_on_window.jpg"
             title="Testing mount on my window!"
             caption="Testing mount on my window!"
-            url="/images/blgr/s400/camera_on_window.jpg" %}](/images/blgr/camera_on_window.jpg)
+            url="/images/blgr/camera_on_window.jpg" %}
 
 Here's a very rough test of the car setup. I just wanted to see if the mount stuck to the window and didn't fall with the rough Houston roads.
 

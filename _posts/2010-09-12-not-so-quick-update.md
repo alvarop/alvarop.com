@@ -22,7 +22,7 @@ My last week in Finland was great. I worked more than usual in order to have my 
 <a href="http://www.flickr.com/photos/apg88/sets/72157624705976471/">Photos from Stockholm.</a>
 
 {% include image.html
-            img="http://farm5.static.flickr.com/4118/4937273058_26605c03dd_z.jpg"
+            img="/images/flckr/4937273058_26605c03dd_z.jpg"
             title=""
             caption=""
             url="http://www.flickr.com/photos/apg88/4937273058" %}
@@ -36,7 +36,7 @@ I arrived to Belfast in the morning and two friends picked me up at the airport.
 <a href="http://www.flickr.com/photos/apg88/sets/72157624862881542/">Photos from Belfast.</a>
 
 {% include image.html
-            img="http://farm5.static.flickr.com/4148/4950849951_327317c9fd_z.jpg"
+            img="/images/flckr/4950849951_327317c9fd_z.jpg"
             title=""
             caption=""
             url="http://www.flickr.com/photos/apg88/4950849951/" %}
