@@ -19,7 +19,11 @@ So far I have mostly been doing schoolwork and things like that.
 I did work on a fun little project though, I think I will write about how it all came to be later.
 Here is a picture of the end result:
 
-[![](http://4.bp.blogspot.com/_k2p8q4xyXYc/SAfWYla8lwI/AAAAAAAAAAc/MXtMauyS9RM/s320/HPIM2603.JPG){: .center-image }](/images/blgr/HPIM2603.JPG)
+{% include image.html
+            img="http://4.bp.blogspot.com/_k2p8q4xyXYc/SAfWYla8lwI/AAAAAAAAAAc/MXtMauyS9RM/s320/HPIM2603.JPG"
+            title=""
+            caption=""
+            url="/images/blgr/HPIM2603.JPG" %}
 
  Aside from that, nothing of much interest has happened.
 

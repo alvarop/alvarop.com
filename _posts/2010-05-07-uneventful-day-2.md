@@ -16,4 +16,8 @@ meta:
 ---
 My sinus infection hasn't gone away. I'm looking forward to tomorrow. I think I will find out whether or not I can go to Europe for the summer.<br />In the meantime, here is a picture from outside my window late in the day.
 
-[![](http://4.bp.blogspot.com/_k2p8q4xyXYc/S-Njm1-PPeI/AAAAAAAAAHE/klzJsHaRmgI/s400/IMG_1086_7_8_final.jpg){: .center-image }](/images/blgr/IMG_1086_7_8_final.jpg)
+{% include image.html
+            img="http://4.bp.blogspot.com/_k2p8q4xyXYc/S-Njm1-PPeI/AAAAAAAAAHE/klzJsHaRmgI/s400/IMG_1086_7_8_final.jpg"
+            title=""
+            caption=""
+            url="/images/blgr/IMG_1086_7_8_final.jpg" %}

@@ -17,4 +17,8 @@ I woke up this morning to a room temperature of 10C (50F). I think the someone t
 
 I didn't take any pictures today, so here's one from yesterday. I was messing around with my 50mm prime lens for my new camera. There was this one flower that survived the snow. There were more earlier in the week.
 
-[![](http://2.bp.blogspot.com/_k2p8q4xyXYc/S-i-Y8pURyI/AAAAAAAAAHk/wdH5i6XmULQ/s400/IMG_1122.JPG){: .center-image }](/images/blgr/IMG_1122.JPG)
+{% include image.html
+            img="http://2.bp.blogspot.com/_k2p8q4xyXYc/S-i-Y8pURyI/AAAAAAAAAHk/wdH5i6XmULQ/s400/IMG_1122.JPG"
+            title=""
+            caption=""
+            url="/images/blgr/IMG_1122.JPG" %}

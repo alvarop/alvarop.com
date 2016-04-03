@@ -17,11 +17,23 @@ My current apartment has one of those 'smart' electric meters that can communica
 
 After getting the file, I decided to write a small python script to get some more information about my usage. Right now it doesn't do much, but it shows me information like daily usage, hourly (ok, 15 minute-ly) averages, and weekday averages.
 
-[![Total energy usage per day in kWh](http://3.bp.blogspot.com/-0DaO3_U_6Oc/TzHgZHDEjpI/AAAAAAAABMI/VwGNgg2rsic/s640/daily.png){: .center-image }](/images/blgr/daily.png)
+{% include image.html
+            img="http://3.bp.blogspot.com/-0DaO3_U_6Oc/TzHgZHDEjpI/AAAAAAAABMI/VwGNgg2rsic/s640/daily.png"
+            title="Total energy usage per day in kWh"
+            caption="Total energy usage per day in kWh"
+            url="/images/blgr/daily.png" %}
 
-[![ usage in 15 minute increments from all of the days in the data set.](http://4.bp.blogspot.com/-FcOGRbBo2XY/TzHgZuxQT3I/AAAAAAAABMQ/B0RP6QKwYdo/s640/hourly.png){: .center-image }](/images/blgr/hourly.png)
+{% include image.html
+            img="http://4.bp.blogspot.com/-FcOGRbBo2XY/TzHgZuxQT3I/AAAAAAAABMQ/B0RP6QKwYdo/s640/hourly.png"
+            title=" usage in 15 minute increments from all of the days in the data set."
+            caption=" usage in 15 minute increments from all of the days in the data set."
+            url="/images/blgr/hourly.png" %}
 
-[![ usage per day of the week](http://2.bp.blogspot.com/-4YQNa_5WlhA/TzHgaJAF7UI/AAAAAAAABMY/83VjTwcJUcc/s640/weekday.png){: .center-image }](/images/blgr/weekday.png)
+{% include image.html
+            img="http://2.bp.blogspot.com/-4YQNa_5WlhA/TzHgaJAF7UI/AAAAAAAABMY/83VjTwcJUcc/s640/weekday.png"
+            title=" usage per day of the week"
+            caption=" usage per day of the week"
+            url="/images/blgr/weekday.png" %}
 
 From looking at this data, I use the most energy on Saturdays (Washer, dryer, more tv than usual, etc...). It also seems that I use the most energy from 7:30-7:45am. That's usually when I'm making breakfast and using the stove.
 

@@ -53,13 +53,21 @@ The solid background worked extremely well. The robot was no longer focusing on 
 
 Since I was still waiting for parts for the next iteration of the mechanical platform, I switched to working on test targets. The organizers were nice enough to provide a<a href="https://github.com/Defconbots/2014_target"> target reference design</a> as well. It consists of blue LEDs, red light sensors, and a microcontroller to detect the hits. I only had some of the required parts at home, so I decided to make a slightly simpler version of it.
 
-[![Target Front - Light sensor and blue LED](/images/wp/targetFront.jpg){: .center-image }](/images/wp/targetFront.jpg)
+{% include image.html
+            img="/images/wp/targetFront.jpg"
+            title="Target Front - Light sensor and blue LED"
+            caption="Target Front - Light sensor and blue LED"
+            url="/images/wp/targetFront.jpg" %}
 
 Target Front - Light sensor and blue LED
 
 After testing the light sensor, I decided to mount it on a perf board, along with the blue LED and some resistors. I thought about using old phone cable to take the signals back to the microcontroller doing the measuring, but I found some headphone cables and used them instead. I cut a hole on a ping pong ball, mounted the board inside, hot glued a bunch, and started testing.
 
-[![Target](/images/wp/target.jpg){: .center-image }](/images/wp/target.jpg)
+{% include image.html
+            img="/images/wp/target.jpg"
+            title="Target"
+            caption="Target"
+            url="/images/wp/target.jpg" %}
 
 Target
 
@@ -70,6 +78,10 @@ I spent some time getting the microcontroller that’s doing the hit detection w
 
 That’s most of my progress so far. I’ve also been working on other mechanical designs, but I haven’t documented any of them yet. Working on this has been educational and quite fun! Incremental updates are usually<a href="http://www.youtube.com/playlist?list=PL51tBfXUVHK3hkl6Vbk8XUx7kcAd2GAIz"> on youtube</a> way before I write about them.
 
-[![Target setup for testing.](/images/wp/TargetSetup.jpg){: .center-image }](/images/wp/TargetSetup.jpg)
+{% include image.html
+            img="/images/wp/TargetSetup.jpg"
+            title="Target setup for testing."
+            caption="Target setup for testing."
+            url="/images/wp/TargetSetup.jpg" %}
 
 Target setup for testing.

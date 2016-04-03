@@ -34,5 +34,9 @@ The rest of the week was not as eventful as Monday. I met with the two Finnish g
 
 On Saturday, I went walking around the local public market and found a few shopping centers in the city center. I also found one of the movie theaters and watch the movie <a href="http://www.imdb.com/title/tt1289406/">Harry Brown</a>, which I enjoyed.
 
-[![Photo of part of the city from the top of the tower at Pyynikki.](http://2.bp.blogspot.com/_k2p8q4xyXYc/TC4gGkSTcdI/AAAAAAAAAI0/YmwH27ZnXJM/s400/IMG_1397.JPG){: .center-image }](/images/blgr/IMG_1397.JPG)
+{% include image.html
+            img="http://2.bp.blogspot.com/_k2p8q4xyXYc/TC4gGkSTcdI/AAAAAAAAAI0/YmwH27ZnXJM/s400/IMG_1397.JPG"
+            title="Photo of part of the city from the top of the tower at Pyynikki."
+            caption="Photo of part of the city from the top of the tower at Pyynikki."
+            url="/images/blgr/IMG_1397.JPG" %}
 </div>

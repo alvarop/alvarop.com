@@ -13,7 +13,11 @@ meta:
   blogger_permalink: /2010/08/quick-update.html
   dsq_thread_id: '943512051'
 ---
-![blah](/images/blgr/IMG_2408.jpg){: .center-image }
+{% include image.html
+            img="/images/blgr/IMG_2408.jpg"
+            title="blah"
+            caption="blah"
+            url="/images/blgr/IMG_2408.jpg" %}
 
 I am writing this in an internet cafe in Oslo...
 
@@ -23,4 +27,8 @@ I arrived to Oslo yesterday morning and will be taking a train to Stockholm Sund
 
 Running out of internet time... so here are two pictures to start.
 
-![bleh](/images/blgr/IMG_2449.jpg){: .center-image }
+{% include image.html
+            img="/images/blgr/IMG_2449.jpg"
+            title="bleh"
+            caption="bleh"
+            url="/images/blgr/IMG_2449.jpg" %}

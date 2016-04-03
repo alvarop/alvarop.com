@@ -14,7 +14,11 @@ meta:
 ---
 I recently started experimenting some more with time-lapse videos while moving. I bought a suction cup mount for my DSLR and tested it out in my car.
 
-[![Testing mount on my window!](http://3.bp.blogspot.com/-R3fC2Ger_JM/Tssdw5OyXrI/AAAAAAAAAt0/PmDahCUxCIg/s400/camera_on_window.jpg){: .center-image }](/images/blgr/camera_on_window.jpg)
+[{% include image.html
+            img="http://3.bp.blogspot.com/-R3fC2Ger_JM/Tssdw5OyXrI/AAAAAAAAAt0/PmDahCUxCIg/s400/camera_on_window.jpg"
+            title="Testing mount on my window!"
+            caption="Testing mount on my window!"
+            url="http://3.bp.blogspot.com/-R3fC2Ger_JM/Tssdw5OyXrI/AAAAAAAAAt0/PmDahCUxCIg/s400/camera_on_window.jpg" %}](/images/blgr/camera_on_window.jpg)
 
 Here's a very rough test of the car setup. I just wanted to see if the mount stuck to the window and didn't fall with the rough Houston roads.
 
