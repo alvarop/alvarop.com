@@ -14,7 +14,7 @@ meta:
   dsq_thread_id: '651200802'
 ---
 {% include image.html
-            img="http://1.bp.blogspot.com/_k2p8q4xyXYc/R-fOSpApGII/AAAAAAAAAAQ/lCYxh5fLWyQ/s320/PIC-0029_1-762580.jpg"
+            img="/images/blgr/s320/PIC-0029_1-762580.jpg"
             title=""
             caption=""
             url="/images/blgr/PIC-0029_1-762580.jpg" %}

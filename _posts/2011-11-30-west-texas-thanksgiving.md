@@ -25,7 +25,7 @@ Being the time-lapse nerd that I am, I decided to experiment with my camera and 
 <b>Also, for more photos from the trip, check out my <a href="http://www.flickr.com/photos/apg88/sets/72157628146836525/with/6400131849/" target="_blank">flickr set</a>.</b>
 
 {% include image.html
-            img="http://4.bp.blogspot.com/--UAeUqNqHW0/TtWc2pfXkQI/AAAAAAAAAyg/pSQd5Dca6Mk/s640/IMG_20111124_093416.jpg"
+            img="/images/blgr/s640/IMG_20111124_093416.jpg"
             title="Rear window mount."
             caption="Rear window mount."
             url="/images/blgr/IMG_20111124_093416.jpg" %}
@@ -48,10 +48,10 @@ The video is extremely short, but I thought it came out alright.
 Since I went there to look at the night sky, I had to find stuff to do during the day. And by stuff I mean mounting the DSLR on the hood of my car and driving around while making more time-lapse videos. I used the same suction cup mount I mentioned previously. It held just fine while driving at speeds of 75+ mph! The actual device was purchased from <a href="http://www.filmtools.com/" target="_blank">filmtools.com</a>. It worked great!
 
 [{% include image.html
-            img="http://2.bp.blogspot.com/-EZOiemdEpt4/TtAHm-OfZcI/AAAAAAAAAw8/zG6gDCi_G58/s640/IMG_20111125_132532.jpg"
+            img="/images/blgr/s640/IMG_20111125_132532.jpg"
             title="Camera on car hood. Talk about trust!"
             caption="Camera on car hood. Talk about trust!"
-            url="http://2.bp.blogspot.com/-EZOiemdEpt4/TtAHm-OfZcI/AAAAAAAAAw8/zG6gDCi_G58/s640/IMG_20111125_132532.jpg" %}](/images/blgr/IMG_20111125_132532.jpg)
+            url="/images/blgr/s640/IMG_20111125_132532.jpg" %}](/images/blgr/IMG_20111125_132532.jpg)
 
 The first one happened during a drive from Marfa to Fort Davis.
 
@@ -64,7 +64,7 @@ There were other driving time-lapses, which you can see in <a href="http://www.y
 The last was a more traditional time-lapse. I was driving and saw a nice field as the sun was setting. I set up my tripod and started taking photos.
 
 {% include image.html
-            img="http://4.bp.blogspot.com/-elVHUEw8pFI/TtWe3HHKOoI/AAAAAAAAAyo/jTwWJI8AmK0/s640/IMG_20111126_173049.jpg"
+            img="/images/blgr/s640/IMG_20111126_173049.jpg"
             title=""
             caption=""
             url="/images/blgr/IMG_20111126_173049.jpg" %}

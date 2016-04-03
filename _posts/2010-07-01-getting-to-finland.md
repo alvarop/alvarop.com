@@ -20,7 +20,7 @@ meta:
 My trip began in Rochester, NY. I woke up early and finished packing. My housemate drove me to the airport early to catch my 10am flight. I arrived to JFK airport in NYC around 11:30am. I had lunch and found one of the charging stations to plug in my laptop while I waited until my 5:40pm flight. Even though there was no one seating next to me, I did not sleep much at all in the airplane.
 
 {% include image.html
-            img="http://4.bp.blogspot.com/_k2p8q4xyXYc/TCytfk_zF9I/AAAAAAAAAIk/YSBEbCsWyLw/s400/IMG_0010.JPG"
+            img="/images/blgr/s400/IMG_0010.JPG"
             title="The last bus and 777 in the background."
             caption="The last bus and 777 in the background."
             url="/images/blgr/IMG_0010.JPG" %}
@@ -38,7 +38,7 @@ I finally managed to sleep during the flight to Helsinki. We landed in Helsinki 
 I ran into some trouble when the bus ticket machine did not take my credit card. It also did not take bills, which are all I had, so I went to the help place at the airport to see if I could buy my ticket there. I couldn’t. What I did do is change euro bills for coins, and then bought my ticket using the original ticket machine.  After a while, my friend met me in near the bus station and we went to a local pub. He was nice enough to let me stay in his flat in Espoo so I could take the train to Tampere (where I am now working) the next day.
 
 {% include image.html
-            img="http://2.bp.blogspot.com/_k2p8q4xyXYc/TCyt4UQq2xI/AAAAAAAAAIs/sAZZY2_F9gQ/s400/IMG_1320_tonemapped.jpg"
+            img="/images/blgr/s400/IMG_1320_tonemapped.jpg"
             title="Near Aalto University"
             caption="Near Aalto University"
             url="/images/blgr/IMG_1320_tonemapped.jpg" %}

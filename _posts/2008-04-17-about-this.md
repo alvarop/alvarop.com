@@ -20,7 +20,7 @@ I did work on a fun little project though, I think I will write about how it all
 Here is a picture of the end result:
 
 {% include image.html
-            img="http://4.bp.blogspot.com/_k2p8q4xyXYc/SAfWYla8lwI/AAAAAAAAAAc/MXtMauyS9RM/s320/HPIM2603.JPG"
+            img="/images/blgr/s320/HPIM2603.JPG"
             title=""
             caption=""
             url="/images/blgr/HPIM2603.JPG" %}
