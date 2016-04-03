@@ -1,0 +1,9 @@
+
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $caption-color;
+        margin-top: $spacer / 3;
+    }
+}
