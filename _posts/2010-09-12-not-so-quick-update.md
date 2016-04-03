@@ -21,7 +21,7 @@ My last week in Finland was great. I worked more than usual in order to have my 
 
 <a href="http://www.flickr.com/photos/apg88/sets/72157624705976471/">Photos from Stockholm.</a>
 
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.flickr.com/photos/apg88/4937273058"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 640px; height: 427px;" src="http://farm5.static.flickr.com/4118/4937273058_26605c03dd_z.jpg" alt="" border="0" /></a>
+[![](http://farm5.static.flickr.com/4118/4937273058_26605c03dd_z.jpg){: .center-image }](http://www.flickr.com/photos/apg88/4937273058)
 
 ### London
 
@@ -31,7 +31,7 @@ I left Stockholm on my way to Belfast on Saturday August 28th. My flight had a l
 I arrived to Belfast in the morning and two friends picked me up at the airport. We then had a traditional Irish fry-up for breakfast at my friend’s house. It was his birthday, so the nice breakfast was part of the celebration.  We later took a bus tour around Belfast, where I learned quite a lot about the history. We stopped along the way at some Indian music festival and ended up in a milkshake place. I think there were over 100 different shakes, so we each ordered one. They were delicious! Later that night we went to an open air concert of some cover band for another band I don’t remember the name of. I do remember that Niamh Kavanagh, the Eurovision 1993 winner from Ireland, was singing. Even though I knew none of the songs, I enjoyed the music. The next morning I took a bus to Dublin.
 <a href="http://www.flickr.com/photos/apg88/sets/72157624862881542/">Photos from Belfast.</a>
 
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.flickr.com/photos/apg88/4950849951/"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 640px; height: 427px;" src="http://farm5.static.flickr.com/4148/4950849951_327317c9fd_z.jpg" alt="" border="0" /></a>
+[![](http://farm5.static.flickr.com/4148/4950849951_327317c9fd_z.jpg){: .center-image }](http://www.flickr.com/photos/apg88/4950849951/)
 
 ### Dublin
 
