@@ -14,6 +14,6 @@ meta:
   dsq_thread_id: '802890826'
 ---
 
-![passport](/images/blgr/passport.jpg)
+![passport](/images/blgr/passport.jpg){: .center-image }
 
 Today I finally received my passport with my residence permit, or oleskelulupa uppehållstillstånd as they call it, from Finland. I am really looking forward to working there over the summer!
