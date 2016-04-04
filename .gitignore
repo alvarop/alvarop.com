@@ -3,3 +3,4 @@ _site
 _config.yml
 _drafts
 .vagrant
+.jekyll-metadata
