@@ -14,10 +14,31 @@ meta:
   dsq_thread_id: '615890991'
 ---
 
-Hi! My name is Alvaro. I'm an Electrical Engineer living in Sunnyvale, CA. My main interests include electronics, flying, photography(time-lapse and high-speed), and traveling. My videos can be seen <a href="http://www.youtube.com/user/apg88">here</a> and photos <a href="http://www.flickr.com/photos/apg88/sets/">here</a>. While photos and videos are in other sites, this one contains my blog. You can read about some of <a href="/categories/#travel">my travels</a>, about <a href="/categories/#projects">my projects</a>, and <a href="/categories/#random">other stuff</a>.
+Hi! My name is Alvaro. I'm an Electrical Engineer living in Sunnyvale, CA. My main interests include electronics, [watching movies][1], flying, photography(time-lapse and high-speed), and traveling. If you're interested, you can find my [resume here][9].
 
-{% include image.html
-            img="/images/flckr/4920384279_38446a5926_b.jpg"
-            title="That's me!"
-            caption="That's me!"
-            url="/images/flckr/4920384279_38446a5926_b.jpg" %}
+### Stuff I make
+
+I make silly videos about my projects and other things. You can watch them on [my youtube channel][2].
+ 
+I also occasionally upload some travel or event photos to my [Flickr account][3].
+
+While photos and videos are in other sites, this one contains my blog. You can read about some of [my travels][4], about [my projects][5], and [other stuff][6].
+
+### Other stuff
+
+I was a guest on the [Embedded.fm][7] podcast.
+
+Here's my talk at the Hackaday Superconference in 2015:
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/qSHjzEO5CiE" frameborder="0" allowfullscreen></iframe></div>
+
+There's also a Hackaday article about some of my [ProtoX reverse engineering work][8].
+
+[1]: http://letterboxd.com/alvarop/
+[2]: http://www.youtube.com/user/apg88
+[3]: http://www.flickr.com/photos/apg88/sets/
+[4]: /categories/#travel
+[5]: /categories/#projects
+[6]: /categories/#random
+[7]: http://embedded.fm/episodes/130
+[8]: http://hackaday.com/2014/12/10/reverse-engineering-the-proto-x-quadcopter-radio/
+[9]: /files/Alvaro.Prieto.Resume.pdf
