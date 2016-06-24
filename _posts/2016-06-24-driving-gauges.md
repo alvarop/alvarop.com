@@ -9,7 +9,7 @@ type: post
 comments: true
 ---
 
-A few years ago, I bought a couple of these analog gauges at the electronics flea market. Like many other things I buy, they ended up in a box stored away in the closet… Not too long ago, stumbled onto Alan Wolke’s (@AlanAtTek) [video about panel meters][0]
+A few years ago, I bought a couple of these analog gauges(galvanometers) at the [electronics flea market][0]. Like many other things I buy, they ended up in a box stored away in the closet… Not too long ago, stumbled onto Alan Wolke’s (@AlanAtTek) [video about panel meters][1]
 
 {% include image.html
             img="/images/gauges/IMG_3035.jpg"
@@ -65,4 +65,5 @@ Here’s a quick video of the gauges moving around with the setup:
 
 So there you have it, an easy, low part count, way of controlling a bidirectional analog gauge with a DAC and a GPIO pin.
 
-[0]: https://www.youtube.com/watch?v=wbRx5cQZ8Ts
+[0]: http://www.electronicsfleamarket.com
+[1]: https://www.youtube.com/watch?v=wbRx5cQZ8Ts
