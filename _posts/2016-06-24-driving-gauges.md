@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gauges!
+title: Driving Analog Gauges with DAC
 categories:
 - projects
 tags: []
@@ -9,13 +9,19 @@ type: post
 comments: true
 ---
 
-A few years ago, I bought a couple of these analog gauges(galvanometers) at the [electronics flea market][0]. Like many other things I buy, they ended up in a box stored away in the closet… Not too long ago, stumbled onto Alan Wolke’s (@AlanAtTek) [video about panel meters][1]
-
 {% include image.html
             img="/images/gauges/IMG_3035.jpg"
             title="Gauge!"
             caption="Gauge!"
             url="/images/gauges/IMG_3035.jpg" %}
+
+A few years ago, I bought a couple of these analog gauges(galvanometers) at the [electronics flea market][0]. Like many other things I buy, they ended up in a box stored away in the closet… Not too long ago, stumbled onto Alan Wolke’s ([@AlanAtTek][1]) [video about panel meters][2]
+
+{% include image.html
+            img="/images/gauges/IMG_3036.jpg"
+            title="Behind the gauges"
+            caption="Behind the gauges"
+            url="/images/gauges/IMG_3036.jpg" %}
 
 After watching Alan’s video, I decided to pull the panels out and see if I could make them do something useful. The first thing I looked for after taking them out was the range. The small text on the bottom left says FS=1-0-1 mA DC. I verified this by plugging it into my DC power supply like Alan suggested with a 10kOhm resistor and going from 0-10V. Unfortunately, my power supply doesn’t go negative, so I had to reconnect the meter by switching the two wires to test the negative region.
 
@@ -66,4 +72,5 @@ Here’s a quick video of the gauges moving around with the setup:
 So there you have it, an easy, low part count, way of controlling a bidirectional analog gauge with a DAC and a GPIO pin.
 
 [0]: http://www.electronicsfleamarket.com
-[1]: https://www.youtube.com/watch?v=wbRx5cQZ8Ts
+[1]: https://twitter.com/AlanAtTek
+[2]: https://www.youtube.com/watch?v=wbRx5cQZ8Ts
