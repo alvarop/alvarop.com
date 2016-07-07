@@ -33,6 +33,9 @@ Here's my talk at the Hackaday Superconference in 2015:
 
 There's also a Hackaday article about some of my [ProtoX reverse engineering work][8].
 
+I gave a talk for students in the [Design_Code_Build][10] program at the [Computer History Museum][11]:
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DQfIiqJCglA" frameborder="0" allowfullscreen></iframe></div>
+
 [1]: http://letterboxd.com/alvarop/
 [2]: http://www.youtube.com/user/apg88
 [3]: http://www.flickr.com/photos/apg88/sets/
@@ -42,3 +45,5 @@ There's also a Hackaday article about some of my [ProtoX reverse engineering wor
 [7]: http://embedded.fm/episodes/130
 [8]: http://hackaday.com/2014/12/10/reverse-engineering-the-proto-x-quadcopter-radio/
 [9]: /files/Alvaro.Prieto.Resume.pdf
+[10]: http://www.computerhistory.org/education/designcodebuild/
+[11]: http://www.computerhistory.org
