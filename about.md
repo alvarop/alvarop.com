@@ -29,12 +29,15 @@ While photos and videos are in other sites, this one contains my blog. You can r
 I was a guest on the [Embedded.fm][7] podcast.
 
 Here's my talk at the Hackaday Superconference in 2015:
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/qSHjzEO5CiE" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qSHjzEO5CiE" frameborder="0" allowfullscreen></iframe></div>
 
 There's also a Hackaday article about some of my [ProtoX reverse engineering work][8].
 
 I gave a talk for students in the [Design_Code_Build][10] program at the [Computer History Museum][11]:
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DQfIiqJCglA" frameborder="0" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DQfIiqJCglA" frameborder="0" allowfullscreen></iframe></div>
+
+Here's my talk about prototyping/debugging tools for the [Hardware Developers Didactic Galactic][12] meetup:
+<div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BQbZaITPuaA" frameborder="0" allowfullscreen></iframe></div>
 
 [1]: http://letterboxd.com/alvarop/
 [2]: http://www.youtube.com/user/apg88
@@ -47,3 +50,4 @@ I gave a talk for students in the [Design_Code_Build][10] program at the [Comput
 [9]: /files/Alvaro.Prieto.Resume.pdf
 [10]: http://www.computerhistory.org/education/designcodebuild/
 [11]: http://www.computerhistory.org
+[12]: https://www.meetup.com/Hardware-Developers-Didactic-Galactic/
