@@ -31,4 +31,4 @@ The actual purchase process was strange. FormaSpace is a technical furniture com
 
 As usual, I documented the build process with time-lapse videos. Here is the result:
 
-<iframe src="http://www.youtube.com/embed/hEI4WWOxhfE" frameborder="0" width="640" height="360"></iframe>
+<iframe src="https://www.youtube.com/embed/hEI4WWOxhfE" frameborder="0" width="640" height="360"></iframe>

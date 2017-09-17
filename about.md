@@ -37,7 +37,7 @@ I gave a talk for students in the [Design_Code_Build][10] program at the [Comput
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/DQfIiqJCglA" frameborder="0" allowfullscreen></iframe></div>
 
 [1]: http://letterboxd.com/alvarop/
-[2]: http://www.youtube.com/user/apg88
+[2]: https://www.youtube.com/user/apg88
 [3]: http://www.flickr.com/photos/apg88/sets/
 [4]: /categories/#travel
 [5]: /categories/#projects

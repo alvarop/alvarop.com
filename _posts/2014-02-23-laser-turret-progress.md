@@ -76,7 +76,7 @@ I spent some time getting the microcontroller that’s doing the hit detection w
 <div align="center"><iframe src="//www.youtube.com/embed/GtZHJ2-zj8c?rel=0" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></div>
 <br />
 
-That’s most of my progress so far. I’ve also been working on other mechanical designs, but I haven’t documented any of them yet. Working on this has been educational and quite fun! Incremental updates are usually<a href="http://www.youtube.com/playlist?list=PL51tBfXUVHK3hkl6Vbk8XUx7kcAd2GAIz"> on youtube</a> way before I write about them.
+That’s most of my progress so far. I’ve also been working on other mechanical designs, but I haven’t documented any of them yet. Working on this has been educational and quite fun! Incremental updates are usually<a href="https://www.youtube.com/playlist?list=PL51tBfXUVHK3hkl6Vbk8XUx7kcAd2GAIz"> on youtube</a> way before I write about them.
 
 {% include image.html
             img="/images/wp/TargetSetup.jpg"
