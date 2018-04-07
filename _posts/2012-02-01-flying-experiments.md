@@ -21,6 +21,6 @@ Last time I mounted the camera on the rear window pointing out. This time I poin
 
 Not too interesting, but I figured I would share them here.
 
-<div style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/A8SWLaYVga0" width="480"></iframe></div>
+<div style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/A8SWLaYVga0" width="480"></iframe></div>
 <br />
-<div style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/WST__Ool4ss" width="480"></iframe></div>
+<div style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/WST__Ool4ss" width="480"></iframe></div>

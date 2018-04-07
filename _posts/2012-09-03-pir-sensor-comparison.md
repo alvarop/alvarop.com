@@ -25,7 +25,7 @@ I recently started working on a project that <em>might</em> require some Passiv
 
 The comparison is between a <a href="https://www.sparkfun.com/products/9587">Zilog ePIR</a> and an <a href="https://www.sparkfun.com/products/8630">SE-10</a>. One very important thing to note is that I did not use the<strong> ePIR</strong>'s serial interface. I only used the hardware interface, set to the highest sensitivity, and shortest delay. I felt that this would be a better comparison. I made a video that shows my test setup, as well as some results, so most of the relevant information is there. I'll use this blog post to add some setup details, as well as my conclusion.
 
-<iframe src="http://www.youtube.com/embed/xZGYn-oipQc" frameborder="0" width="640" height="360"></iframe>
+<iframe src="https://www.youtube.com/embed/xZGYn-oipQc" frameborder="0" width="640" height="360"></iframe>
 
 First of all, I must warn everyone (as <a href="http://www.sparkfun.com/">Sparkfun</a> did) about the <strong>SE-10</strong>. The wire colors mean absolutely <strong>NOTHING</strong>. As you can see in the photo, there is a black, brown, and red cables. Here's what they were connected to on mine: <strong>Black</strong>=<strong>12V</strong>, <strong>Brown</strong>=<strong>GND</strong>, <strong>Red</strong>=<strong>Alarm</strong>. It's not a huge problem, just make sure you know before supplying power. There's a small label that says <strong>B+</strong> and <strong>AL</strong> on the bottom near each wire that should help.
 

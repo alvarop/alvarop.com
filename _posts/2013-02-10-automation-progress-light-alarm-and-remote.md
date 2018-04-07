@@ -38,4 +38,4 @@ It took longer than expected, but I ended up using the <a href="http://twitter.g
 
 Here's a quick video of the remote in action:
 
-<div align="center"><iframe src="http://www.youtube.com/embed/kFFxp2S3pJk" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></div>
+<div align="center"><iframe src="https://www.youtube.com/embed/kFFxp2S3pJk" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></div>

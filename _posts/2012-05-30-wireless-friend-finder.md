@@ -16,11 +16,11 @@ The Wireless Friend Finder was my project for the <a href="https://twitter.com/j
 
 The wireless friend finder is a device that will start buzzing when another device gets near. This can be used to find a friend in a crowd(or to stay away from someone you don't like)! Here's a quick video I did while I was prototyping the project.
 
-<div style="text-align: center;"><iframe src="http://www.youtube.com/embed/2gkRtET5Arc" frameborder="0" width="640" height="360"></iframe></div>
+<div style="text-align: center;"><iframe src="https://www.youtube.com/embed/2gkRtET5Arc" frameborder="0" width="640" height="360"></iframe></div>
 
 The actual devices consist of an msp430 microcontroller a cc2500 radio, and an annoying buzzer. The devices are sending radio messages every second. If a message from another device is received, the buzzer starts going off. In order to make it slightly more interesting, they measure the signal strength of the incoming message and determine how long the buzzes last. The stronger the signal, the longer the buzz. Here's a video of some outdoor testing. (I had to do it around the apartments to get an ok result. I tried doing it with direct line-of-sight across the parking lot, but after 300ft, it was still buzzing!)
 
-<div style="text-align: center;"><iframe src="http://www.youtube.com/embed/x-Ge8ROIJVA" frameborder="0" width="480" height="360"></iframe></div>
+<div style="text-align: center;"><iframe src="https://www.youtube.com/embed/x-Ge8ROIJVA" frameborder="0" width="480" height="360"></iframe></div>
 
 Since the devices aren't very nicely built, I was slightly worried about the airport security. Luckily, they didn't even ask me to take them out of my bags!
 
@@ -34,6 +34,6 @@ Even though the project was for the bring-a-hack dinner, I carried it around whi
 
 Ian from <a href="http://dangerousprototypes.com/">DangerousPrototypes </a>was nice enough to ask a few questions about the friend finder and put it online (along with other awesome interviews!):
 
-<div style="text-align: center;"><iframe src="http://www.youtube.com/embed/2qkT9hLQPy0" frameborder="0" width="640" height="360"></iframe></div>
+<div style="text-align: center;"><iframe src="https://www.youtube.com/embed/2qkT9hLQPy0" frameborder="0" width="640" height="360"></iframe></div>
 
 So that's the wireless friend finder... If you're interested, you can get the code from <a href="https://github.com/alvarop/msp430-cc2500/blob/master/projects/friendfinder/main.c">github</a>.
